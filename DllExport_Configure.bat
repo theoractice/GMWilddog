@@ -1,0 +1,1 @@
+DllExport -proxy localhost:9050 -action Configure %*

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: wilddog-sync-jvm-2.0.2.jar json-20090211.jar okio-1.11.0.j
+ ar jackson-annotations-2.2.2.jar jackson-databind-2.2.2.jar jackson-c
+ ore-2.2.2.jar engine.io-client-0.8.3.jar okhttp-3.5.0.jar
+Main-Class: org.gamemaker.wilddog.App
+
