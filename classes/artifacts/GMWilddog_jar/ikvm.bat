@@ -1,0 +1,1 @@
+D:\Coding\compiler\IKVM\ikvm-8.1.5717.0\bin\ikvmc.exe -target:library -out:WilddogWrapper.dll -recurse:"./*.jar" -platform:x86
